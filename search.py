@@ -1,4 +1,3 @@
-from lxml import html
 import requests
 from requests.exceptions import ConnectionError
 
